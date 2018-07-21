@@ -22,6 +22,6 @@ public static void main(String[] args) {
 	             z=z+b;
 		    fn=Integer.parseInt(z.substring(z.length()-1));
 	     }
-	System.out.println(a.substring(0,a.length()));
+	System.out.println(a.substring(0,fn+1));
 }
 }
