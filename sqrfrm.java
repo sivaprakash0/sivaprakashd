@@ -1,7 +1,4 @@
-package gold;
-
 import java.util.Scanner;
-
 public class sqrfrm {
 public static void main(String[] args) {
 	Scanner in=new Scanner(System.in);
@@ -15,10 +12,9 @@ public static void main(String[] args) {
 	int no8=in.nextInt();
 	if(no1==no2 && no5==no6 && no4==no7 && no3==no8){
 		System.out.println("yes");
-	}
+	    }
 	else{
 		System.out.println("no");
-	}
-	
-}
+	    }
+     }
 }
