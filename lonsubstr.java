@@ -1,8 +1,4 @@
-package set1;
-
 import java.util.Arrays;
-
-
 public class lonsubstr {
 public static void main(String[] args) {
 	String gn=args[0];
