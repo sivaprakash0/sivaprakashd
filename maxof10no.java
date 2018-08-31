@@ -1,8 +1,5 @@
-package set4;
-
 import java.util.Arrays;
 import java.util.Scanner;
-
 public class maxof10no {
 public static void main(String[] args) {
 	Scanner in=new Scanner(System.in);
