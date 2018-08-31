@@ -1,7 +1,4 @@
-package set4;
-
 import java.util.Scanner;
-
 public class swap2no {
 public static void main(String[] args) {
   Scanner in=new Scanner(System.in);
@@ -12,6 +9,5 @@ public static void main(String[] args) {
   a=b;
   b=c;
   System.out.println(a+" "+b);
-  
  }
 }
